@@ -6,4 +6,5 @@ int main(){
 	int j=0;
 	cout<<i^j<<endl;
 	//test
+	//test2
 }
